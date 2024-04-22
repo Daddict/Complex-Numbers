@@ -1,0 +1,1 @@
+We use [[Conjugates]] to Realize the denominator.

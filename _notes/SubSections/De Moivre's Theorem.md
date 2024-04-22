@@ -1,0 +1,2 @@
+$$Z^n=(cos.n(α) + isin.n(α))$$
+[[De Moivre's Theorem]] Enables us to delve into [[Complex Roots]], and the idea of exponentiation lets us introduces a new form in [[Complex Numbers]], called [[Polar Form]].
